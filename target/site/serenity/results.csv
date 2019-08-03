@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Check on application status","Application status end-point","SUCCESS","2019-08-03T18:37:12.9022846+02:00[Europe/Berlin]","0.0","3.1"
+"Record a new trade","Each trade has a unique ID","SUCCESS","2019-08-03T18:37:16.0520751+02:00[Europe/Berlin]","0.0","0.07"
